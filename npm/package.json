@@ -1,0 +1,28 @@
+{
+  "name": "scrapeadlibrary-mcp",
+  "version": "0.1.0",
+  "mcpName": "com.scrapeadlibrary/scrapeadlibrary",
+  "description": "MCP server for the ScrapeAdLibrary API: search the Meta Ad Library from AI assistants (npm wrapper)",
+  "license": "MIT",
+  "bin": {
+    "scrapeadlibrary-mcp": "bin/cli.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "keywords": [
+    "mcp",
+    "ad library",
+    "ads",
+    "competitor research",
+    "ai"
+  ],
+  "homepage": "https://scrapeadlibrary.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrapeadlibrary/mcp-server.git"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

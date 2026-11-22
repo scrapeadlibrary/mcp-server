@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "scrapeadlibrary": {
+      "command": "uvx",
+      "args": ["scrapeadlibrary-mcp"],
+      "env": {
+        "SCRAPEADLIBRARY_API_KEY": "${SCRAPEADLIBRARY_API_KEY}"
+      }
+    }
+  }
+}
