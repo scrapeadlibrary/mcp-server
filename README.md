@@ -2,6 +2,8 @@
 
 <!-- mcp-name: com.scrapeadlibrary/scrapeadlibrary -->
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/scrapeadlibrary/mcp-server)
+
 An [MCP](https://modelcontextprotocol.io) server that lets AI assistants (Claude Desktop, Claude
 Code, Cursor, Cline...) search the public Meta Ad Library (Facebook, Instagram, Messenger, Audience
 Network, Threads) through the [ScrapeAdLibrary](https://scrapeadlibrary.com) API: competitor ads, creatives,
